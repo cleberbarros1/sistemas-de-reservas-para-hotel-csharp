@@ -1,0 +1,15 @@
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\modulo-ii-explorando-csharp\8-desafio-de-projeto\bin\Debug\net7.0\8-desafio-de-projeto.exe
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\modulo-ii-explorando-csharp\8-desafio-de-projeto\bin\Debug\net7.0\8-desafio-de-projeto.deps.json
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\modulo-ii-explorando-csharp\8-desafio-de-projeto\bin\Debug\net7.0\8-desafio-de-projeto.runtimeconfig.json
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\modulo-ii-explorando-csharp\8-desafio-de-projeto\bin\Debug\net7.0\8-desafio-de-projeto.dll
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\modulo-ii-explorando-csharp\8-desafio-de-projeto\bin\Debug\net7.0\8-desafio-de-projeto.pdb
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\modulo-ii-explorando-csharp\8-desafio-de-projeto\obj\Debug\net7.0\8-desafio-de-projeto.csproj.AssemblyReference.cache
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\modulo-ii-explorando-csharp\8-desafio-de-projeto\obj\Debug\net7.0\8-desafio-de-projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\modulo-ii-explorando-csharp\8-desafio-de-projeto\obj\Debug\net7.0\8-desafio-de-projeto.AssemblyInfoInputs.cache
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\modulo-ii-explorando-csharp\8-desafio-de-projeto\obj\Debug\net7.0\8-desafio-de-projeto.AssemblyInfo.cs
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\modulo-ii-explorando-csharp\8-desafio-de-projeto\obj\Debug\net7.0\8-desafio-de-projeto.csproj.CoreCompileInputs.cache
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\modulo-ii-explorando-csharp\8-desafio-de-projeto\obj\Debug\net7.0\8-desafio-de-projeto.dll
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\modulo-ii-explorando-csharp\8-desafio-de-projeto\obj\Debug\net7.0\refint\8-desafio-de-projeto.dll
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\modulo-ii-explorando-csharp\8-desafio-de-projeto\obj\Debug\net7.0\8-desafio-de-projeto.pdb
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\modulo-ii-explorando-csharp\8-desafio-de-projeto\obj\Debug\net7.0\8-desafio-de-projeto.genruntimeconfig.cache
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\modulo-ii-explorando-csharp\8-desafio-de-projeto\obj\Debug\net7.0\ref\8-desafio-de-projeto.dll
